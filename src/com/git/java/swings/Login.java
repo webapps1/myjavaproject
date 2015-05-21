@@ -17,7 +17,7 @@ import java.sql.*;
 import java.awt.*;
 import org.jvnet.substance.SubstanceLookAndFeel;
 
-
+//Login class
 public class Login extends JFrame implements ActionListener
 {
 	public JFrame frame=new JFrame("Privacy Manager - Login Form");
